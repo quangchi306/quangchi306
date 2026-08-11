@@ -7,10 +7,6 @@
 - 💬 Ask me about **OWASP Top 10, Root Cause Analysis, Python Scripting, and Linux (Parrot OS KDE)**
 - 📫 How to reach me: **quangchi442@email.com**
 
-### 📝 Latest Write-ups & Security Research
-- [**[PsychCTF]** Chaining PDF JS Injection, vm2 Escape & EJS SSTI](https://hackmd.io/@quangchi306/BkvmCvz9Ze)
-- [**[UIUCTF]** Chaining Next.js SSRF & OpenBao ACL Misconfiguration](https://app.notion.com/p/UIUCTF-2026-Nabi-AI-Web-3b6d0c3479ed80f6968dcb4907f694b6)
-
 ### 🛠️ Favorite Arsenal
 `Burp Suite Community` | `GDB` | `SQLmap` | `Nmap` | `ffuf` | `Parrot OS KDE`
 
