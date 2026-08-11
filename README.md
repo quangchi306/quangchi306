@@ -20,15 +20,14 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-</p>
 
 <h3 align="left">GitHub Stats:</h3>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangchi306&show_icons=true&locale=en&theme=radical" alt="quangchi306" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quangchi306&show_icons=true&locale=en&layout=compact&theme=radical" alt="quangchi306" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangchi306&amp;show_icons=true&amp;theme=radical" alt="quangchi306" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quangchi306&amp;layout=compact&amp;theme=radical" alt="quangchi306" height="150" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangchi306&theme=radical" alt="quangchi306" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangchi306&amp;theme=radical" alt="quangchi306" height="150" />
 </p>
