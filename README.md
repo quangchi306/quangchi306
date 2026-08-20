@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Chi</h1>
-<h3 align="center">A passionate Web Penetration Tester & Information Security Student from Vietnam 🇻🇳</h3>
+<h3 align="center">A Web Penetration Tester & Information Security Student from PTIT 🇻🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quangchi306&label=Profile%20views&color=0e75b6&style=flat" alt="quangchi306" /> </p>
 
 - 🌱 I’m currently learning **Pentest & Cloud Security**
-- 💬 Ask me about **OWASP Top 10, Root Cause Analysis, Python Scripting, and Linux (Parrot OS KDE)**
+- 💬 Ask me about **OWASP Top 10, Root Cause Analysis, Python Scripting, and Linux**
 - 📫 How to reach me: **quangchi442@email.com**
 
 ### 🛠️ Favorite Arsenal
