@@ -7,7 +7,7 @@
 - 📫 How to reach me: **quangchi442@email.com**
 
 ### 🛠️ Favorite Arsenal
-`Burp Suite Community` | `GDB` | `SQLmap` | `Nmap` | `ffuf` | `Parrot OS KDE`
+`Burp Suite` | `ZAP` | `SQLmap` | `Nmap` | `ffuf` | `GDB` | `Powershell` | `Ligolo-ng` | `NetExec`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
