@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quangchi306&label=Profile%20views&color=0e75b6&style=flat" alt="quangchi306" /> </p>
 
-- 🌱 I’m currently learning **Pentest & Cloud Security**
+- 🌱 I'm currently learning **Pentest & Cloud Security**
 - 📫 How to reach me: **quangchi442@email.com**
 
 ### 🛠️ Favorite Arsenal
@@ -21,7 +21,11 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangchi306&theme=radical" alt="quangchi306" height="150" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/quangchi306/quangchi306/output/github-snake.svg" alt="snake animation" />
 </p>
-![Stats](./profile/stats.svg)
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Stats" />
+</p>
