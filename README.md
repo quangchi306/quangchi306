@@ -20,4 +20,6 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangchi306&theme=radical" alt="quangchi306" height="150" />
 </p>
-![snake animation](https://raw.githubusercontent.com/quangchi306/quangchi306/output/github-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quangchi306/quangchi306/output/github-snake.svg" alt="snake animation" />
+</p>
