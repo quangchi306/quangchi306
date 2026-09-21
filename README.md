@@ -23,3 +23,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/quangchi306/quangchi306/output/github-snake.svg" alt="snake animation" />
 </p>
+![Stats](./profile/stats.svg)
