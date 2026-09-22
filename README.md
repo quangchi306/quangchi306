@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=quangchi306&label=Profile%20views&color=0e75b6&style=flat" alt="quangchi306" /> </p>
 
-- 🌱 I'm currently learning **Penatration Testing**
+- 🌱 I'm currently learning **Penetration Testing**
 - 📫 How to reach me: **quangchi442@email.com**
 
 ### 🛠️ Favorite Arsenal
